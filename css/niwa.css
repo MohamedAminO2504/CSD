@@ -1,0 +1,42 @@
+.bg_color1 {
+    background-color: red;
+}
+
+.bg_color2 {
+    background-color: blue;
+}
+
+.bg_color3 {
+    background-color: green;
+}
+
+.logo-holder {
+    float: left;
+    height: 60px;
+    position: relative;
+    top: 10px;
+    left: 0px;
+}
+
+.logo-holder img {
+    width: auto;
+    height: 100%;
+}
+
+.logo-holder {
+    float: left;
+    height: 100%;
+    position: relative;
+    top: 10%;
+    left: 25px;
+}
+
+.logo-holder img {
+    width: auto;
+    height: 80%;
+}
+
+.footer-logo img {
+    height: 60px;
+    width: auto;
+}
