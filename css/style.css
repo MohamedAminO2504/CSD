@@ -5218,7 +5218,7 @@ cite.fn .star-rating {
         float: left;
         width: 100%;
         height: 2px;
-        background: #000;
+        background: #b292ff;
         margin-bottom: 4px;
         border-radius: 4px;
         -webkit-transition: all 200ms linear;
